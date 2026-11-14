@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# i’dazhdi’doolniłígíí
-
 i’dazhdi’doolniłígíí is a version of [Déjà Entendu](https://github.com/ncubeeight/deja-entendu), an iPhone app for language learners, with an open-source Diné bizaad (Navajo) dictionary added. It looks up meanings and reads aloud about 11,000 Navajo words, all on the device, with no account and no cloud service.
 
 ## Yours to clone, fork and build on
