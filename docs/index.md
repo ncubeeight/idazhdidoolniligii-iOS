@@ -8,7 +8,7 @@ i’dazhdi’doolniłígíí is a version of [Déjà Entendu](https://github.com
 
 This app is meant to be carried forward by developers from the Navajo Nation. You're free to clone it, fork it, rename it, rebrand it, change it and publish your own app from it. What you build from it is yours.
 
-The app's code is under the [Apache License 2.0](https://github.com/ncubeeight/idazhdidoolnigii-iOS/blob/main/LICENSE). It lets you use, change and distribute it, including in paid or commercial apps, under whatever terms you choose for your own work. The license only asks you to keep its copy and the existing copyright and credit notices with the code.
+The app's code is under the [Apache License 2.0](https://github.com/ncubeeight/idazhdidoolniligii-iOS/blob/main/LICENSE). It lets you use, change and distribute it, including in paid or commercial apps, under whatever terms you choose for your own work. The license only asks you to keep its copy and the existing copyright and credit notices with the code.
 
 The Navajo dictionary data has its own license; see [Acknowledgements](#acknowledgements) below.
 
@@ -16,10 +16,10 @@ The Navajo dictionary data has its own license; see [Acknowledgements](#acknowle
 
 You'll need a Mac with Xcode 26 or later. The app runs on iOS 26 or later.
 
-1. Fork [ncubeeight/idazhdidoolnigii-iOS](https://github.com/ncubeeight/idazhdidoolnigii-iOS) on GitHub, or clone it directly:
+1. Fork [ncubeeight/idazhdidoolniligii-iOS](https://github.com/ncubeeight/idazhdidoolniligii-iOS) on GitHub, or clone it directly:
 
    ```
-   git clone https://github.com/ncubeeight/idazhdidoolnigii-iOS.git
+   git clone https://github.com/ncubeeight/idazhdidoolniligii-iOS.git
    ```
 
 2. Open `Déjà Entendu.xcodeproj` in Xcode.

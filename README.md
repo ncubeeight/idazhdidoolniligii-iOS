@@ -1,6 +1,6 @@
-# Idazhdidoolnigii (iOS)
+# Idazhdidoolniligii (iOS)
 
-Idazhdidoolnigii is a version of [Déjà Entendu](https://github.com/ncubeeight/deja-entendu) that adds an open-source Diné bizaad (Navajo) dictionary. The dictionary comes from [NavajoKit](https://gitlab.com/HullBreach/navajokit) and gives word meanings and read-aloud for about 11,000 Navajo words, all on the device.
+Idazhdidoolniligii is a version of [Déjà Entendu](https://github.com/ncubeeight/deja-entendu) that adds an open-source Diné bizaad (Navajo) dictionary. The dictionary comes from [NavajoKit](https://gitlab.com/HullBreach/navajokit) and gives word meanings and read-aloud for about 11,000 Navajo words, all on the device.
 
 This app is meant to be developed and improved further by contributors from the Navajo Nation. If you'd like to help, fork this repository and build on it, whether that means better word coverage, better pronunciation, new features or your own design and branding.
 
